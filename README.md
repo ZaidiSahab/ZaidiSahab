@@ -4,7 +4,7 @@ A passionate full stack developer from Pakistan
 <br>
 🌐 Socials:
 <br>
-
+<span>
 
 ![download](https://github.com/user-attachments/assets/06944cb5-d393-40bf-98d3-b02b70947a9e)
 
@@ -14,7 +14,10 @@ https://www.linkedin.com/in/mustafa-zaidi-4a3b84286/
 
 https://www.youtube.com/@mustafazaidi7
 
+</span>
+
 <br>
+
 ## 🛠️ My Skills & Tools
 ![C](https://img.shields.io/badge/-C-blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
