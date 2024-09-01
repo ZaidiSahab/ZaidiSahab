@@ -16,9 +16,8 @@ A passionate full stack developer from Pakistan
 <br>
 
 
+![download](https://github.com/user-attachments/assets/b2c81687-1e06-4094-bd54-07cb3592fc94)
 
-
-![download](https://github.com/user-attachments/assets/06944cb5-d393-40bf-98d3-b02b70947a9)
 
 
 
