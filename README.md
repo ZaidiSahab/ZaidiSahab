@@ -1,4 +1,6 @@
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c68746d6c2c6373732c6a732c66697265626173652c676974687562](https://github.com/user-attachments/assets/5bae3a01-9f20-4c3d-a1b3-5e6d88a9a80b)Hi 👋, I'm Syed Muhammad Mustafa Zaidi
+<center>![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c68746d6c2c6373732c6a732c66697265626173652c676974687562](https://github.com/user-attachments/assets/5bae3a01-9f20-4c3d-a1b3-5e6d88a9a80b)</center>
+<br>  
+  Hi 👋, I'm Syed Muhammad Mustafa Zaidi
 <br>
 A passionate full stack developer from Pakistan
 <br>
