@@ -12,7 +12,8 @@
 <br>
 A passionate full stack developer from Pakistan
 <br>
-🌐 Socials:
+
+<div>🌐 Socials:
 <br>
 
 
@@ -28,7 +29,7 @@ https://www.linkedin.com/in/mustafa-zaidi-4a3b84286/
 
 
 https://www.youtube.com/@mustafazaidi7
-
+</div>
 </span>
 
 <br>
