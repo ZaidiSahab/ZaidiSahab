@@ -14,9 +14,8 @@ A passionate full stack developer from Pakistan
 <br>
 🌐 Socials:
 <br>
+![Uploading 68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e.svg…]()
 
-
-![download](https://github.com/user-attachments/assets/06944cb5-d393-40bf-98d3-b02b70947a9e)
 
 https://www.linkedin.com/in/mustafa-zaidi-4a3b84286/
 
