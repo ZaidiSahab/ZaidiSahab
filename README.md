@@ -49,6 +49,7 @@ https://www.youtube.com/@mustafazaidi7
 ![React](https://img.shields.io/badge/-React-blue)
 ![Express](https://img.shields.io/badge/-Express-lightgrey)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![1_pimj8lXWwZnqLs2xVCV2Aw](https://github.com/user-attachments/assets/7791db41-1266-4b54-a267-c122836e997a)
 
 <h1> 💻Tech Stack:</h1>
 
