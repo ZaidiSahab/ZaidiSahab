@@ -8,7 +8,7 @@
 </center>
 
 <br>  
-  Hi 👋, I'm Syed Muhammad Mustafa Zaidi
+ <h3> Hi</h3> <h1> 👋, I'm Syed Muhammad Mustafa Zaidi </h1>
 <br>
 A passionate full stack developer from Pakistan
 <br>
