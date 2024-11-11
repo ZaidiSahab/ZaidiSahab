@@ -8,9 +8,9 @@
 </center>
 
 <br>  
- <h3> Hi</h3> <h1> 👋, I'm Syed Muhammad Mustafa Zaidi </h1>
+ <h3> Hi</h3> <h1> 👋, I'm Mustafa Zaidi </h1>
 <br>
-A passionate full stack developer from Pakistan
+A passionate Full-stack developer from Pakistan
 <br>
 
 <center>
