@@ -65,4 +65,3 @@ https://www.linkedin.com/in/mustafa-zaidi-4a3b84286/
 
 <h1> 💻Tech Stack:</h1>
 
-[![](https://visitcount.itsvg.in/api?id=MustafaZaidi&label=Profile%20V%20&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
