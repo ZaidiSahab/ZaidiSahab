@@ -8,9 +8,11 @@
 </center>
 
 <br>  
+<center>
  <h3> Hi</h3> <h1> 👋, I'm Mustafa Zaidi </h1>
+</center>
 <br>
-A passionate Full-stack developer from Pakistan
+I am a passionate web developer from Pakistan and eager to learn more.
 </br>
 </br>
 </br>
