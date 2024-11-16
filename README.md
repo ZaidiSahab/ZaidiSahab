@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
+  <h2>🌐 Connect with Me :</h2>
   <a href="https://www.linkedin.com/in/mustafa-zaidi-4a3b84286/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
