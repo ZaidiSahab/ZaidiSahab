@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5bae3a01-9f20-4c3d-a1b3-5e6d88a9a80b" alt="Developer Icon" width="200px">
+  
 </div>
 
 <h1 align="center">Hi 👋, I'm Mustafa Zaidi</h1>
