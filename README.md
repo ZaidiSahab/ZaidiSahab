@@ -15,9 +15,7 @@
   <a href="https://www.linkedin.com/in/mustafa-zaidi-4a3b84286/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://tiktok.com/@s.mustafazaidi7">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
-  </a>
+ 
   <a href="https://youtube.com/@mustafazaidi7">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
